@@ -33,6 +33,9 @@ Beispiele:
 
 Die Skripte wurden verwendet, um aus den Datentabellen automatisch formatierte Tabellen für die Einbindung in die Arbeit zu generieren.
 
+Hinweis: Bei der Entwicklung einzelner Skripte wurde generative KI als unterstützendes Werkzeug (z. B. zur Code-Formulierung und Fehlersuche) verwendet. 
+Die finale Implementierung, Prüfung und Anpassung erfolgte eigenständig.
+
 ---
 
 ## Abbildungen
