@@ -2,8 +2,8 @@ import pandas as pd
 from pathlib import Path
 import re
 
-INPUT_FILE = "KraftEffekteReihenfolge.csv"
-OUTPUT_TEX = "KraftEffekteReihenfolge_table.tex"
+INPUT_FILE = "KraftEffekteReihenfolge.csv" # Name der Datei
+OUTPUT_TEX = "KraftEffekteReihenfolge_table.tex" # Name der Datei
 CAPTION = "Kraft-Effekte der Trainingsreihenfolge"
 LABEL = "tab:kraft_effekte_reihenfolge"
 ARRAYSTRETCH = 1.5
@@ -92,7 +92,6 @@ def main():
 """
 
     Path(OUTPUT_TEX).write_text(latex, encoding="utf-8")
-    print(f"✅ Fertig: {OUTPUT_TEX}")
 
 if __name__ == "__main__":
     main()
