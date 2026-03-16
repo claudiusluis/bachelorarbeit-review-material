@@ -11,8 +11,8 @@ from pathlib import Path
 import re
 
 INPUT_FILES = [
-    "Pfad/zu/Datei1.ris",
-    "Pfad/zu/Datei2.bibtex",
+    "Dateipfad.ris",
+    "Dateipfad.bibtex",
     # beliebig weitere
 ]
 OUTPUT_FILE = "Ausgabepfad/screening_tabelle.xlsx"
