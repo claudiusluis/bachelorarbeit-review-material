@@ -4,7 +4,8 @@ Dieses Repository enthält ergänzende Materialien zur Bachelorarbeit:
 
 **Effekte der Trainingsreihenfolge im HIIT-basierten Concurrent Training auf Kraft und Power bei trainierten Erwachsenen: Ein systematisches Review**
 
-Die hier bereitgestellten Dateien dienen der Transparenz und Nachvollziehbarkeit der in der Arbeit dargestellten Ergebnisse und Analysen.
+Die Materialien wurden in diesem Repository hochgeladen, da einige Dateien zu umfangreich für den Anhang der Bachelorarbeit gewesen wären.
+Sie dienen der Transparenz und Nachvollziehbarkeit der in der Arbeit dargestellten Ergebnisse.
 
 ---
 
@@ -34,7 +35,7 @@ Beispiele:
 Die Skripte wurden verwendet, um aus den Datentabellen automatisch formatierte Tabellen für die Einbindung in die Arbeit zu generieren.
 
 Hinweis: Bei der Entwicklung einzelner Skripte wurde generative KI als unterstützendes Werkzeug (z. B. zur Code-Formulierung und Fehlersuche) verwendet. 
-Die finale Implementierung, Prüfung und Anpassung erfolgte eigenständig.
+Die finale Implementierung, Prüfung und Anpassung erfolgte eigenständig. Der Tabelleninhalt wurde eigenständig erarbeitet.
 
 ---
 
@@ -42,7 +43,7 @@ Die finale Implementierung, Prüfung und Anpassung erfolgte eigenständig.
 
 Der Ordner `figures/` enthält Abbildungen, die im Rahmen des Reviews erstellt wurden.
 
-Dazu gehören unter anderem:
+Dazu gehören:
 
 - PRISMA-Flussdiagramm zur Darstellung des Studienauswahlprozesses
 - Risk-of-Bias-Abbildungen (RoB2)
